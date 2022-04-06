@@ -9,7 +9,7 @@ venue: 'AAAI'
 paperurl: 'https://www.aaai.org/AAAI22Papers/AAAI-8021.ZhengJ.pdf'
 citation: 'Jingjing Zheng, Xiaoqin Zhang, Wenzhe Wang, Xianta Jiang. (2022). &quot;Handling Slice Permutations Variability in Tensor Recovery.&quot; <i>AAAI Conference on Artifical Intelligence</i>.'
 ---
-his work studies the influence of slice permutations on tensor recovery, which is derived from a reasonable assumption
+This work studies the influence of slice permutations on tensor recovery, which is derived from a reasonable assumption
 about algorithm, i.e. changing data order should not affect the effectiveness of the algorithm. However, as we will discussed in this paper, this assumption is not satisfied by tensor recovery under some cases. We call this interesting problem as
 Slice Permutations Variability (SPV) in tensor recovery. In this paper, we discuss SPV of several key tensor recovery problems theoretically and experimentally. The obtained conclusion shows that there is a huge gap between results by tensor recovery using tensor with different slices sequences. To overcome
 SPV in tensor recovery, a novel tensor recovery algorithm by Minimum Hamiltonian Circle for SPV (TRSPV) is developed
