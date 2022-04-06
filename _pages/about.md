@@ -12,15 +12,15 @@ My current research interest are mainly about low rank-sparse representation lea
 
 Research Interests
 ======
-Low rank-sparse representation learning
+[Low rank-sparse representation learning]
 
-Tensor learning
+[Tensor learning]
   
-Prosthetic control based on computer vision 
+[Prosthetic control based on computer vision]
   
-Explainable deep learning
+[Explainable deep learning]
 
-Math discovery in machine learning
+[Math discovery in machine learning]
 
 Recent Papers
 ======
