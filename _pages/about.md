@@ -14,7 +14,7 @@ New and Recent Events:
 
 I have recently received Mitacs Accelerate Award with Verafin for a project related to my PhD thesis research entitled "Unsupervised Financial Fraud Detection Using Low-rank Recovery", starting May 1, 2022.
 
-I have recently received Outstanding reseach award (Ph.D.), MUN, 2022.03.
+I have recently received Outstanding Reseach Award (Ph.D.), MUN, 2022.03.
 
 Research Interests:
 ======
