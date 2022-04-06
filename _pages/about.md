@@ -12,15 +12,15 @@ My current research interest are mainly about low rank-sparse representation lea
 
 Research Interests
 ======
-[Low rank-sparse representation learning]
+[Low rank-sparse representation learning](https://jzheng20.github.io)
 
-[Tensor learning]
+[Tensor learning](https://jzheng20.github.io)
   
-[Prosthetic control based on computer vision]
+[Prosthetic control based on computer vision](https://jzheng20.github.io)
   
-[Explainable deep learning]
+[Explainable deep learning](https://jzheng20.github.io)
 
-[Math discovery in machine learning]
+[Math discovery in machine learning](https://jzheng20.github.io)
 
 Recent Papers
 ======
