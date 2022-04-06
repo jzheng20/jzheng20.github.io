@@ -3,7 +3,7 @@ title: "Exemplar-Based Denoising: A Unified Low-Rank Recovery Framework"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ' In this paper, we interpret nonlocal similar patch-based denoising as a problem of low-rank recovery.'
-date: 2010-10-01
+date: 2019-7-09
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8758211'
 citation: 'Xiaoqin Zhang, Jingjing Zheng, Di Wang and Li Zhao. (2019). &quot;Exemplar-based Denoising: A Unified Low-rank Recovery Framework 2.&quot; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. (99):1-1.'
