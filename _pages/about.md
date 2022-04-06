@@ -10,7 +10,11 @@ redirect_from:
 
 My current research interest are mainly about low rank-sparse representation learning and its application in data analysis and computer vision. And I am also interested in studying explainable deep learning and math discovery in machine learning in the future. For more information, please check my [CV.pdf](https://jzheng20.github.io/files/CV-JingjingZheng.pdf)
 
-Research Interests
+New and Recent Events:
+======
+
+
+Research Interests:
 ======
 [Low rank-sparse representation learning](https://jzheng20.github.io)
 
@@ -22,7 +26,7 @@ Research Interests
 
 [Math discovery in machine learning](https://jzheng20.github.io)
 
-Recent Papers
+Recent Papers:
 ======
  
 Xiaoqin Zhang, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2020. (major revision)
