@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-3-21
 venue: 'AAAI'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.aaai.org/AAAI22Papers/AAAI-8021.ZhengJ.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 his work studies the influence of slice permutations on tensor recovery, which is derived from a reasonable assumption
