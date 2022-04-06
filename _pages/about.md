@@ -18,11 +18,15 @@ I have recently received Outstanding reseach award (Ph.D.), MUN, 2022.03.
 
 Research Interests:
 ======
-[Low rank-sparse representation learning](https://jzheng20.github.io)//
-[Tensor learning](https://jzheng20.github.io)//
-[Prosthetic control based on computer vision](https://jzheng20.github.io)//
-[Explainable deep learning](https://jzheng20.github.io) //
-[Math discovery in machine learning](https://jzheng20.github.io)//
+[Low rank-sparse representation learning](https://jzheng20.github.io)
+
+[Tensor learning](https://jzheng20.github.io)
+
+[Prosthetic control based on computer vision](https://jzheng20.github.io)
+
+[Explainable deep learning](https://jzheng20.github.io) 
+
+[Math discovery in machine learning](https://jzheng20.github.io)
 
 Recent Papers:
 ======
