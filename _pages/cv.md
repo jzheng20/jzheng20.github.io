@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+For more information, please check my [CV.pdf](https://jzheng20.github.io/files/CV-JingjingZheng.pdf)
 
 Education
 ======
