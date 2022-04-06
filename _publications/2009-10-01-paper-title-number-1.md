@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-3-21
 venue: 'AAAI'
 paperurl: 'https://www.aaai.org/AAAI22Papers/AAAI-8021.ZhengJ.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Jingjing Zheng, Xiaoqin Zhang, Wenzhe Wang, Xianta Jiang. (2022). &quot;Handling Slice Permutations Variability in Tensor Recovery.&quot; <i>AAAI Conference on Artifical Intelligence</i>.'
 ---
 his work studies the influence of slice permutations on tensor recovery, which is derived from a reasonable assumption
 about algorithm, i.e. changing data order should not affect the effectiveness of the algorithm. However, as we will discussed in this paper, this assumption is not satisfied by tensor recovery under some cases. We call this interesting problem as
