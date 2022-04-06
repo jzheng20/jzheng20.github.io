@@ -27,7 +27,7 @@ Recent Papers
  
 Xiaoqin Zhang, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2020. (major revision)
 
-Jingjing Zheng, Wenzhe Wang, Xiaoqin Zhang*, Xianta Jiang. Fast Tensor Completion with Non-Convex Surrogates for Large-Scale Data,  *IEEE Transactions on IEEE Transactions on Neural Networks and Learning Systems*. (under review)  
+Jingjing Zheng, Wenzhe Wang, Xiaoqin Zhang, Xianta Jiang. Fast Tensor Completion with Non-Convex Surrogates for Large-Scale Data,  *IEEE Transactions on IEEE Transactions on Neural Networks and Learning Systems*. (under review)  
 
  
 Xiaoqin Zhang, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE Transactions on Neural Networks and Learning Systems*, 2021. (under review)
