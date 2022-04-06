@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jingjing Zheng's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jingjing Zheng"
 description              : &description "personal description"
 url                      : https://jzheng20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jingjing Zheng"
   avatar           : "profile.png"
-  bio              : "Memorial University"
+  bio              : "Ph.D. student, Memorial University"
   location         : "Newfoundland and Labrador, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
