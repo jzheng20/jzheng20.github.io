@@ -10,20 +10,18 @@ redirect_from:
 
 My current research interest are mainly about low rank-sparse representation learning and its application in data analysis and computer vision. And I am also interested in studying explainable deep learning and math discovery in machine learning in the future. For more information, please check my [CV.pdf](https://jzheng20.github.io/files/CV-JingjingZheng.pdf)
 
-<font color=#00ffff size=3>New and Recent Events:</font>
+New and Recent Events:
 
+I have recently received Mitacs Accelerate Award with Verafin for a project related to my PhD thesis research entitled "Unsupervised Financial Fraud Detection Using Low-rank Recovery", starting May 1, 2022.
 
+I have recently received Outstanding reseach award (Ph.D.), MUN, 2022.03.
 
 Research Interests:
 ======
-[Low rank-sparse representation learning](https://jzheng20.github.io)
-
-[Tensor learning](https://jzheng20.github.io)
-  
-[Prosthetic control based on computer vision](https://jzheng20.github.io)
-  
-[Explainable deep learning](https://jzheng20.github.io)
-
+[Low rank-sparse representation learning](https://jzheng20.github.io) 
+[Tensor learning](https://jzheng20.github.io) 
+[Prosthetic control based on computer vision](https://jzheng20.github.io) 
+[Explainable deep learning](https://jzheng20.github.io) 
 [Math discovery in machine learning](https://jzheng20.github.io)
 
 Recent Papers:
