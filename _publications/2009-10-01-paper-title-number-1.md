@@ -2,7 +2,7 @@
 title: "Handling Slice Permutations Variability in Tensor Recovery"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'his work studies the influence of slice permutations on tensor recovery, which is derived from a reasonable assumption
+excerpt: 'This work studies the influence of slice permutations on tensor recovery, which is derived from a reasonable assumption
 about algorithm, i.e. changing data order should not affect the effectiveness of the algorithm.'
 date: 2022-3-21
 venue: 'AAAI'
