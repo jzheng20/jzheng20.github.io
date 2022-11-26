@@ -6,7 +6,7 @@ excerpt: 'This work studies the influence of slice permutations on tensor recove
 about algorithm, i.e. changing data order should not affect the effectiveness of the algorithm.'
 date: 2022-3-21
 venue: 'AAAI'
-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20261)　[supplementary material](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/20261'　
 citation: 'Jingjing Zheng, Xiaoqin Zhang, Wenzhe Wang, Xianta Jiang.  &quot;Handling Slice Permutations Variability in Tensor Recovery.&quot; <i>AAAI Conference on Artifical Intelligence</i>, 2022.'
 ---
 This work studies the influence of slice permutations on tensor recovery, which is derived from a reasonable assumption
