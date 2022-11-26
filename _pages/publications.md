@@ -27,6 +27,4 @@ Xiaoqin Zhang, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Rec
 Jingjing Zheng, Xiaoqin Zhang*, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations　Variability in Tensor Recovery. *AAAI Conference on Artifical Intelligence*, 2022.
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20261)　[supplementary material](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
