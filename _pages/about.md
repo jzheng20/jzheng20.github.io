@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My current research interest are mainly about low rank-sparse representation learning and its application in data analysis and computer vision. And I am also interested in studying explainable deep learning and math discovery in machine learning in the future. For more information, please check my [CV.pdf](https://jzheng20.github.io/files/CV-JingjingZheng.pdf)
+My current research interest are mainly about low rank-sparse representation learning and its application in data analysis and computer vision. And I am also interested in studying explainable deep learning and math discovery in machine learning in the future. 　
 
 Research Interests:
 ======
