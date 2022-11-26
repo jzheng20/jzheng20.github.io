@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please check my [CV.pdf](https://jzheng20.github.io/files/CV-JingjingZheng.pdf)
+Please check my [CV.pdf]()
 
 
 
