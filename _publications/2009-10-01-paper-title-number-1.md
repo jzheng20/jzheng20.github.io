@@ -17,4 +17,5 @@ which exploits a low dimensional subspace structures within data tensor more exa
 first work to discuss SPV in tensor recovery and give an effective solution for it. The experimental results demonstrate the effectiveness of the proposed algorithm in eliminating SPV in tensor recovery.
 
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20261)　[supplementary material](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)
-Jingjing Zheng, Xiaoqin Zhang(corresponding author), Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI Conference on Artifical Intelligence*, 2022.
+
+Recommended citation: Jingjing Zheng, Xiaoqin Zhang(corresponding author), Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI Conference on Artifical Intelligence*, 2022.
