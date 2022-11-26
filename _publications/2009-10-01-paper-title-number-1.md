@@ -16,5 +16,5 @@ SPV in tensor recovery, a novel tensor recovery algorithm by Minimum Hamiltonian
 which exploits a low dimensional subspace structures within data tensor more exactly. To our best knowledge, this is the
 first work to discuss SPV in tensor recovery and give an effective solution for it. The experimental results demonstrate the effectiveness of the proposed algorithm in eliminating SPV in tensor recovery.
 
-[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/20261)　[Download supplementary material here](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary material.pdf)
+[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/20261)　[Download supplementary material here](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)
 Jingjing Zheng, Xiaoqin Zhang(corresponding author), Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI Conference on Artifical Intelligence*, 2022.
