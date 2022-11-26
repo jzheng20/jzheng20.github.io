@@ -19,7 +19,7 @@ Selected Publications
 ======
 
 Xiaoqin Zhang, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 
-[paper](https://ieeexplore.ieee.org/document/9916142)
+[[paper]](https://ieeexplore.ieee.org/document/9916142)
  
 Xiaoqin Zhang, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE Transactions on Neural Networks and Learning Systems*, 2022. 　
 [paper](https://ieeexplore.ieee.org/document/9804376)
