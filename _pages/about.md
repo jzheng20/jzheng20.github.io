@@ -13,5 +13,5 @@ Prof. [Xianta Jiang](https://www.cs.mun.ca/~xiantaj/). My current research inter
 
  
 
-[[my CV]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/CV-JingjingZheng.pdf)　[UCML lab](https://sites.google.com/view/ucmi/members)
+[[my CV]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/CV-JingjingZheng.pdf)　[[UCML lab]](https://sites.google.com/view/ucmi/members)
  
