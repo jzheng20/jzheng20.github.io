@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please see [[Google Scholar]] (https://scholar.google.com/citations?user=vgPWqLkAAAAJ&hl=en&oi=ao) for my more recent work.
+Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkAAAAJ&hl=en&oi=ao) for my more recent work.
 
 Selected Publications:
 ======
