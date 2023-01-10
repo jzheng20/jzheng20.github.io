@@ -8,29 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My current research interest are mainly about low rank-sparse representation learning and its application in data analysis and computer vision. And I am also interested in studying explainable deep learning and math discovery in machine learning in the future. 　
+I am currently a third-year Ph.D. student from the Department of Computer Science at the Memorial University of Newfoundland. My current research interests include low-rank recovery, sparse representation learning, explainable deep neural networks, and their mathematical foundation. And I am also interested in studying math discovery in machine learning in the future. 　 
 
-Research Interests:
-======
-[Low rank-sparse representation learning](https://jzheng20.github.io)
-
-[Tensor learning](https://jzheng20.github.io)
-
-[Prosthetic control based on computer vision](https://jzheng20.github.io)
-
-[Explainable deep learning](https://jzheng20.github.io) 
-
-[Math discovery in machine learning](https://jzheng20.github.io)
-
-Recent Honors:
-======
-
-Mitacs Accelerate Award with Verafin, "Unsupervised Financial Fraud Detection Using Low-rank Recovery", starting May 1, 2022.
-
-Outstanding Reseach Award (Ph.D.), MUN, 2022.03.
-
-Recent Papers:
-======
  
+
+
 　
  
