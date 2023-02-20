@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jingjing Zheng's Homepage"
 title_separator          : "-"
-name                     : &name "Jingjing Zheng"
+name                     : &name "Jingjing Zheng (郑晶晶)"
 description              : &description "Ph.D. student, Memorial University"
 url                      : https://jzheng20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
