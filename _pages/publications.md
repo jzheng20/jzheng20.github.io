@@ -10,7 +10,7 @@ Selected Publications:
 ======
 
 
-[4] Jingjing Zheng, Wenzhe Wang, Xiaoqin Zhang, Xianta Jiang. A Novel Tensor Factorization-Based Method with Robustness to Inaccurate Rank Estimation. Preprint at *arXiv:2305.11458*, 2023.  [[paper]](https://arxiv.org/abs/2305.11458))[[code]](https://github.com/haha2345/TCDLR-RE)
+[4] Jingjing Zheng, Wenzhe Wang, Xiaoqin Zhang, Xianta Jiang. A Novel Tensor Factorization-Based Method with Robustness to Inaccurate Rank Estimation. Preprint at *arXiv:2305.11458*, 2023.  [[paper]](https://arxiv.org/abs/2305.11458)[[code]](https://github.com/haha2345/TCDLR-RE)
 
 [3] Jingjing Zheng, Xiaoqin Zhang, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI Conference on Artifical Intelligence*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261) [[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf) 
 [[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
