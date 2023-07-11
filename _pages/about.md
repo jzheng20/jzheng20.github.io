@@ -19,7 +19,6 @@ Recent News
 ===========================
 *<font color=red> News! </font>* This fall, I'll be embarking on my doctoral studies in Mathematics at the University of British Columbia [(UBC)](https://www.ubc.ca/). I'm honored to have the opportunity to be supervised by Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
 
-
 *<font color=red> News! </font>* Received Chinese Government Award for Outstanding Self-financed Students Abroad (2022). 
 
 *<font color=red> News! </font>* Awarded the title "Fellow of the School of Graduate Studies". 
