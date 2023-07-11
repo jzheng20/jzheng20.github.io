@@ -21,7 +21,7 @@ Recent News
 
 *<font color=red> News! </font>* Received Chinese Government Award for Outstanding Self-financed Students Abroad (2022). 
 
-*<font color=red> News! </font>* Awarded the title "Fellow of the School of Graduate Studies". 
+*<font color=red> News! </font>* Awarded the title “Fellow of the School of Graduate Studies". 
 
 
 
