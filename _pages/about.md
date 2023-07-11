@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*<strong><font size=2>  Theory without practice is empty, but equally, practice without theory is blind.  ---- I. Kant </font></strong>*
+*<strong><font size=3>  Theory without practice is empty, but equally, practice without theory is blind.  ---- I. Kant </font></strong>*
 
 Hello! My name is Jingjing Zheng, but you can call me Jen. My current research interests include low-rank recovery, sparse representation learning, explainable deep neural networks, their mathematical foundation, Optimization in machine learning, and math discovery in machine learning. 
 
