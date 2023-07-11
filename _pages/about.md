@@ -9,7 +9,7 @@ redirect_from:
 ---
 *<strong><font size=3>  Theory without practice is empty, but equally, practice without theory is blind.  ---- I. Kant </font></strong>*
 
-Hello! My name is Jingjing Zheng, but you can call me Jen. My current research interests include low-rank recovery, sparse representation learning, explainable deep neural networks, their mathematical foundation, Optimization in machine learning, and math discovery in machine learning. 
+Hello! My name is Jingjing Zheng, but you can call me Jen. My current research interests include low-rank recovery, sparse representation learning, explainable deep neural networks, their mathematical foundation, optimization in machine learning, and math discovery in machine learning. 
 
 
 If you'd like to learn more about my academic and professional background, you can take a look at my [[Curriculum Vitae]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/CV-JingjingZheng.pdf).　
