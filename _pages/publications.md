@@ -19,11 +19,10 @@ Selected Publications:
 
 [1] Xiaoqin Zhang, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[paper]](https://ieeexplore.ieee.org/document/9916142)
  
+Dissertations:
+=======
 
- Dissertations:
- =======
+[2]  Jingjing Zheng. Effective Tensor-Tensor Product-Based Tensor Recovery and Its Efficient Non-Convex Optimization Framework. Memorial University of Newfoundland, 2023. [[paper]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/(已瘦身)Zheng_Jingjing_doctoral_revision.pdf)
 
-[2]  Jingjing Zheng. Effective Tensor-Tensor Product-Based Tensor Recovery and Its Efficient Non-Convex Optimization Framework. Memorial University of Newfoundland, 2023. [[paper]] (https://github.com/jzheng20/jzheng20.github.io/tree/master/files/(已瘦身)Zheng_Jingjing_doctoral_revision.pdf)
-
-[1]  Jingjing Zheng. Low rank recovery based on $L_0$ norm non-convex surrogate methods and its application. Wenzhou University, 2020. [[paper]] (https://github.com/jzheng20/jzheng20.github.io/tree/master/files/学位论文最终版.pdf)
+[1]  Jingjing Zheng. Low rank recovery based on $L_0$ norm non-convex surrogate methods and its application. Wenzhou University, 2020. [[paper]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/学位论文最终版.pdf)
 
