@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+*<font size=5> <font color=red> Theory without practice is empty, but equally, practice without theory is blind. </font> ---- I. Kant </font>*
 
 Hello! My name is Jingjing Zheng, but you can call me Jen. My current research interests include low-rank recovery, sparse representation learning, explainable deep neural networks, their mathematical foundation, Optimization in machine learning, and math discovery in machine learning. 
 
@@ -20,9 +20,9 @@ Recent News
 *<font color=red> News! </font>* This fall, I'll be embarking on my doctoral studies in Mathematics at the University of British Columbia [(UBC)](https://www.ubc.ca/). I'm honored to have the opportunity to be supervised by Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
 
 
-<em><font color=red> News! </font></em> Received Chinese Government Award for Outstanding Self-financed Students Abroad (2022). 
+*<font color=red> News! </font>* Received Chinese Government Award for Outstanding Self-financed Students Abroad (2022). 
 
-<font color=red> *News!* </font> Awarded the title "Fellow of the School of Graduate Studies". 
+*<font color=red> News! </font>* Awarded the title "Fellow of the School of Graduate Studies". 
 
 
 
