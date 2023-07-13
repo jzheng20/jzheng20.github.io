@@ -19,9 +19,9 @@ Recent News
 ===========================
 *<font color=red> News! </font>* This fall, I'll be embarking on my doctoral studies in Mathematics at the [University of British Columbia](https://www.ubc.ca/). I'm honored to have the opportunity to be supervised by Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
 
-*<font color=red> News! </font>* Received Chinese Government Award for Outstanding Self-financed Students Abroad (2022). 
+*<font color=red> News! </font>* Received [Chinese Government Award for Outstanding Self-financed Students Abroad (2022)](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad). 
 
-*<font color=red> News! </font>* Awarded the title “Fellow of the School of Graduate Studies". 
+*<font color=red> News! </font>* Awarded the title [“Fellow of the School of Graduate Studies"](https://www.mun.ca/sgs/current-students/tuition-funding-and-employment/fellow-of-the-school-of-graduate-studies/). 
 
 
 
