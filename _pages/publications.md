@@ -7,6 +7,9 @@ author_profile: true
 Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkAAAAJ&hl=en&oi=ao) for more my recent work.
 
 * ## Selected Publications:
+
+  [5] Jingjing Zheng, Wenzhe Wang, Xiaoqin Zhang, Yankai Cao, Xianta Jiang. High-Order Tensor Recovery with A Tensor $U_1$ Norm. 
+  *arXiv: 2311.13958*, 2023.  [[paper]](https://arxiv.org/abs/2311.13958)[[code]](https://github.com/jzheng20/jzheng20.github.io/blob/master/files/TCSL_and_TCU1.zip)[[Supplementary material]](https://github.com/jzheng20/jzheng20.github.io/blob/master/files/supp_TCU1.pdf)
  
   [4] Jingjing Zheng, Wenzhe Wang, Xiaoqin Zhang, Xianta Jiang. A Novel Tensor Factorization-Based Method with Robustness to Inaccurate Rank 
   Estimation. *arXiv:2305.11458*, 2023.  [[paper]](https://arxiv.org/abs/2305.11458)[[code]](https://github.com/haha2345/TCDLR-RE)
