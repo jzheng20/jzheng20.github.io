@@ -8,7 +8,9 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
 ## Selected Publications:  
  
-  [5] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning, submitted to *SCIENCE CHINA Information Sciences* (Major Revision).
+  [6] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. Submitted to *SCIENCE CHINA Information Sciences* (Major Revision).
+
+  [5] Jingjing Zheng,  Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. Accepted to *ICLR* as a tiny paper, 2024.
 
   [4] Jingjing Zheng, Wenzhe Wang, Xiaoqin Zhang, Yankai Cao\*, Xianta Jiang. High-Order Tensor Recovery with A Tensor $U_1$ Norm. 
   *arXiv: 2311.13958*, 2023.  [[paper]](https://arxiv.org/abs/2311.13958)[[code]](https://github.com/jzheng20/jzheng20.github.io/blob/master/files/TCSL_and_TCU1.zip)[[Supplementary material]](https://github.com/jzheng20/jzheng20.github.io/blob/master/files/supp_TCU1.pdf)
