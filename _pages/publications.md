@@ -8,7 +8,7 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
 ## Selected Publications:  
 
-  [6] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *arXiv: 2311.13958*, 2023. [[paper]](https://arxiv.org/abs/2311.13958) (submitted to ECCV 2024)
+  [6] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *arXiv: 2311.13958*, 2023. [[paper]](https://arxiv.org/abs/2311.13958) (submitted to ECCV2024)
  
   [5] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. Submitted to *SCIENCE CHINA Information Sciences* (Major Revision).
 
