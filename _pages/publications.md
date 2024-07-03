@@ -8,11 +8,11 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
 ## Selected Publications:  
 
-  [6] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *arXiv: 2311.13958*, 2023. [[paper]](https://arxiv.org/abs/2311.13958) (submitted to ECCV2024)
+  [6] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *arXiv: 2311.13958*, 2023. [[paper]](https://arxiv.org/abs/2311.13958) (Accepted to ECCV 2024)
  
   [5] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. Submitted to *SCIENCE CHINA Information Sciences* (Major Revision).
 
-  [4] Jingjing Zheng, Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. Accepted to *ICLR* as a tiny paper, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
+  [4] Jingjing Zheng, Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. Published to *ICLR* as a tiny paper, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
 
   [3] Jingjing Zheng, Xiaoqin Zhang\*, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI Conference 
   on Artificial Intelligence*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261)[[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)[[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
