@@ -28,7 +28,7 @@ If you'd like to learn more about my academic and professional background, you c
 
 ## Research Experience
 
-[ZERO Lab](https://zero-lab-pku.github.io/), Peking University, Beijing, P. R. China, Visiting Student, Advisor: Zhouchen Lin, 05/2024-09/2024     
+* [ZERO Lab](https://zero-lab-pku.github.io/), Peking University, Beijing, P. R. China, Visiting Student, *<strong>Advisor</strong>*: Zhouchen Lin, 05/2024-09/2024     
 
  
 
