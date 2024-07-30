@@ -26,6 +26,13 @@ If you'd like to learn more about my academic and professional background, you c
 *<font color=red> News! </font>* Received [Chinese Government Award for Outstanding Self-financed Students Abroad (2022)](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad), 2023.  
 
 
+## Research Experience
+
+*<font color=black> ZERO Lab, Peking University </font>*, Beijing, P. R. China, 05/2024-09/2024     
+
+Visiting Student, Advisor: Zhouchen Lin
+
+
 
 
 
