@@ -14,14 +14,16 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
   [4] Jingjing Zheng, Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. Published to *ICLR* as a tiny paper, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
 
-  [3] Jingjing Zheng, Xiaoqin Zhang\*, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI Conference 
+  [3] Xiaoqin Zhang\*, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. [[paper]](https://ieeexplore.ieee.org/document/9916142)
+  [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/SSO_Non_Convex.zip)
+
+  [2] Jingjing Zheng, Xiaoqin Zhang\*, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI Conference 
   on Artificial Intelligence*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261)[[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)[[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
 
-  [2] Xiaoqin Zhang\*, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE 
+  [1] Xiaoqin Zhang\*, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE 
   Transactions on Neural Networks and Learning Systems*, 2022. [[paper]](https://ieeexplore.ieee.org/document/9804376) [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/WTAR.zip)
 
-  [1] Xiaoqin Zhang\*, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[paper]](https://ieeexplore.ieee.org/document/9916142)
-  [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/SSO_Non_Convex.zip)
+  
 
   **Notes**: The corresponding author is indicated with "\*".
  
