@@ -19,7 +19,7 @@ If you'd like to learn more about my academic and professional background, you c
 
 *<font color=red> News! </font>* My paper “Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework” has been accepted to ECCV 2024. 
 
-*<font color=red> News! </font>* My paper “Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery” has been accepted to ICLR 2024 as a tiny paper.
+*<font color=red> News! </font>* My paper “Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery” has been accepted to The Second Tiny Papers Track at ICLR 2024.
 
 *<font color=red> News! </font>* Awarded [The Borealis AI 2023 Fellowship](https://www.borealisai.com/news/the-borealis-ai-2022-2023-fellowships-fostering-next-gen-research-talent/) (awarded to ten AI researchers from across Canada). 
 
