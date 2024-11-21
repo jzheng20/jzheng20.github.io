@@ -7,8 +7,9 @@ author_profile: true
 Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkAAAAJ&hl=en&oi=ao) for more my recent work.
 
 ## Selected Publications:  
+  [7] Jingjing Zheng, Yuxin Jiang, Wanglong Lu, Lele Wang, Yankai Cao\*. Multi-Objective Tensor Recovery via Minimizing Gaussian Complexity. Submitted to *CVPR 2025*. 
 
-  [6] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. Submitted to *SCIENCE CHINA Information Sciences* (Major Revision).
+  [6] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. *SCIENCE CHINA Information Sciences*, 2024.
 
   [5] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *ECCV*, 2024. [[paper]](https://arxiv.org/abs/2311.13958)  
 
