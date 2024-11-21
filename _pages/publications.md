@@ -6,26 +6,31 @@ author_profile: true
 ---
 Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkAAAAJ&hl=en&oi=ao) for more my recent work.
 
-## Selected Publications:  
-  [7] Jingjing Zheng, Yuxin Jiang, Wanglong Lu, Lele Wang, Yankai Cao\*. Multi-Objective Tensor Recovery via Minimizing Gaussian Complexity. Submitted to *CVPR 2025*. 
+## Selected Publications: 
 
-  [6] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. *SCIENCE CHINA Information Sciences*, 2024.
+  **Notes**: The corresponding author is indicated with "\*".
 
-  [5] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *ECCV*, 2024. [[paper]](https://arxiv.org/abs/2311.13958)  
+ * ## Journal Papers: 
 
-  [4] Jingjing Zheng, Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. *The Second Tiny Papers Track at ICLR*, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
+  [4] Jingjing Zheng, Yuxin Jiang, Wanglong Lu, Lele Wang, Yankai Cao\*. Multi-Objective Tensor Recovery via Minimizing Gaussian Complexity. Submitted to *CVPR 2025*. 
 
-  [3] Xiaoqin Zhang\*, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. [[paper]](https://ieeexplore.ieee.org/document/9916142)
+  [3] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *ECCV*, 2024. [[paper]](https://arxiv.org/abs/2311.13958)  
+
+  [2] Jingjing Zheng, Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. *The Second Tiny Papers Track at ICLR*, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
+
+  [1] Jingjing Zheng, Xiaoqin Zhang\*, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261)[[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)[[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
+  
+ * ## Conference Papers:
+
+  [3] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. *SCIENCE CHINA Information Sciences*, 2024.
+  
+  [2] Xiaoqin Zhang\*, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. [[paper]](https://ieeexplore.ieee.org/document/9916142)
   [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/SSO_Non_Convex.zip)
-
-  [2] Jingjing Zheng, Xiaoqin Zhang\*, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261)[[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)[[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
-
+ 
   [1] Xiaoqin Zhang\*, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE 
   Transactions on Neural Networks and Learning Systems*, 2022. [[paper]](https://ieeexplore.ieee.org/document/9804376) [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/WTAR.zip)
 
   
-
-  **Notes**: The corresponding author is indicated with "\*".
  
 * ## Dissertations: 
 
