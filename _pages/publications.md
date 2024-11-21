@@ -10,7 +10,7 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
   **Notes**: The corresponding author is indicated with "\*".
 
-##  Journal Papers: 
+##  Conference Papers: 
 
   [4] Jingjing Zheng, Yuxin Jiang, Wanglong Lu, Lele Wang, Yankai Cao\*. Multi-Objective Tensor Recovery via Minimizing Gaussian Complexity. Submitted to *CVPR 2025*. 
 
@@ -21,7 +21,7 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
   [1] Jingjing Zheng, Xiaoqin Zhang\*, Wenzhe Wang, Xianta Jiang. Handling Slice Permutations Variability in Tensor Recovery. *AAAI*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261)[[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)[[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
   
   
-##  Conference Papers:
+##  Journal Papers:
 
   [3] Xiaoqin Zhang, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. *SCIENCE CHINA Information Sciences*, 2024.
   
