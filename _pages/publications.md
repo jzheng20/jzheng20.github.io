@@ -13,7 +13,7 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
   [5] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*, Xiaoqin Zhang, Xianta Jiang. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *ECCV*, 2024. [[paper]](https://arxiv.org/abs/2311.13958)  
 
-  [4] Jingjing Zheng, Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. Published to *ICLR* as a tiny paper, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
+  [4] Jingjing Zheng, Yankai Cao\*. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. *The Second Tiny Papers Track at ICLR*, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
 
   [3] Xiaoqin Zhang\*, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. [[paper]](https://ieeexplore.ieee.org/document/9916142)
   [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/SSO_Non_Convex.zip)
