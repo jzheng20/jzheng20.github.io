@@ -9,7 +9,7 @@ redirect_from:
 ---
 *<strong><font size=3> “Theory without practice is empty, but equally, practice without theory is blind."  ---- I. Kant </font></strong>*
 
-Hello! My name is Jingjing Zheng, but you can call me Jen. My current research interests include low-rank recovery, sparse representation learning, explainable deep neural networks, their mathematical foundation, optimization in machine learning, and math discovery in machine learning. This fall, I'll be embarking on my doctoral studies in Mathematics at the [University of British Columbia](https://www.ubc.ca/). I'm honored to have the opportunity to be supervised by Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
+Hello! My name is Jingjing Zheng. My current research interests include low-rank and sparse representation learning, explainable deep neural networks, their mathematical foundation, optimization in machine learning, , as well as compression and fine-tuning of large models. Since 2023, I have been pursuing my doctoral studies in Mathematics at the [University of British Columbia](https://www.ubc.ca/), under the supervision of Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
 
 
 If you'd like to learn more about my academic and professional background, you can take a look at my [[Curriculum Vitae]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/CV-JingjingZheng.pdf).　
