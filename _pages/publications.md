@@ -33,7 +33,7 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
 ##  Preprinted Papers:
 
-  [1] Jingjing Zheng, Yankai Cao\*. Adaptive Principal Components Allocation with the $\ell_ {2, g}$-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models. arXiv preprint arXiv:2412.08592, 2024.
+  [1] Jingjing Zheng, Yankai Cao\*. Adaptive Principal Components Allocation with the $\ell_ {2, g}$-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models. *arXiv preprint arXiv:2412.08592*, 2024.
  
 ## Dissertations: 
 
