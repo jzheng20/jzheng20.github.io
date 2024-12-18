@@ -31,7 +31,9 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
   [1] Xiaoqin Zhang\*, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE 
   Transactions on Neural Networks and Learning Systems*, 2022. [[paper]](https://ieeexplore.ieee.org/document/9804376) [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/WTAR.zip)
 
-  
+##  Preprinted Papers:
+
+  [1] Jingjing Zheng, Yankai Cao\*. Adaptive Principal Components Allocation with the $\ell_ {2, g}$-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models. arXiv preprint arXiv:2412.08592, 2024.
  
 ## Dissertations: 
 
