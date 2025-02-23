@@ -36,10 +36,9 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
   [1] Jingjing Zheng, Yankai Cao\*. Adaptive Principal Components Allocation with the $\ell_ {2, g}$-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models. *arXiv preprint arXiv:2412.08592*, 2024.
 
 
- <!-- ## Dissertations: 
+<!--## Dissertations:--> 
 
-  [2]  Jingjing Zheng. Effective Tensor-Tensor Product-Based Tensor Recovery and Its Efficient Non-Convex Optimization Framework. Memorial University of Newfoundland, 2023. [[paper]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/(已瘦身)Zheng_Jingjing_doctoral_revision.pdf)
+<!--[2]  Jingjing Zheng. Effective Tensor-Tensor Product-Based Tensor Recovery and Its Efficient Non-Convex Optimization Framework. Memorial University of Newfoundland, 2023. [[paper]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/(已瘦身)Zheng_Jingjing_doctoral_revision.pdf)-->
 
-  [1]  Jingjing Zheng. Low rank recovery based on $L_0$ norm non-convex surrogate methods and its application. Wenzhou University, 2020. [[paper]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/学位论文最终版.pdf)
- -->
+<!--[1]  Jingjing Zheng. Low rank recovery based on $L_0$ norm non-convex surrogate methods and its application. Wenzhou University, 2020. [[paper]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/学位论文最终版.pdf)-->
  
