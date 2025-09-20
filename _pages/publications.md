@@ -4,11 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkAAAAJ&hl=en&oi=ao) for more my recent work.
 
 #  Selected Publications: 
 
-  **Notes**:  Supervisors = †;  Corresponding authors = \*
+  **Notes**:  Supervisors = †;  Corresponding authors = \*; Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkAAAAJ&hl=en&oi=ao) for more my recent work.
 
 ##  Conference Papers: 
 
