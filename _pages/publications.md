@@ -12,9 +12,9 @@ Please see [[Google Scholar]](https://scholar.google.com/citations?user=vgPWqLkA
 
 ##  Conference Papers: 
 
-  [5] Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao\*,†, Zhouchen Lin\*. *AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning.* NeurIPS, 2025.
+  [5] Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao\*,†, Zhouchen Lin\*.  AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning. *NeurIPS*, 2025.
 
-  [4] Qiangqiang Mao, Jiayang Ren, Yixiu Wang, Chenxuanyin Zou, Jingjing Zheng, Yankai Cao\*,†. *Differentiable Decision Tree via "ReLU+Argmin" Reformulation.* NeurIPS (spotlight), 2025.
+  [4] Qiangqiang Mao, Jiayang Ren, Yixiu Wang, Chenxuanyin Zou, Jingjing Zheng, Yankai Cao\*,†. *Differentiable Decision Tree via "ReLU+Argmin" Reformulation. *NeurIPS (spotlight)*, 2025.
 
   [3] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*,†, Xiaoqin Zhang†, Xianta Jiang†. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *ECCV*, 2024. [[paper]](https://arxiv.org/abs/2311.13958)  
 
