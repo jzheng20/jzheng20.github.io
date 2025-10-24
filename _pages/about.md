@@ -32,7 +32,9 @@ If you'd like to learn more about my academic and professional background, you c
 
 ## Research Experience
 
-* [ZERO Lab](https://zero-lab-pku.github.io/), Peking University, Beijing, P. R. China, Visiting Student, *<strong>Advisor:</strong>* Prof. Zhouchen Lin, 05/2024-09/2024     
+* [ZERO Lab](https://zero-lab-pku.github.io/), Peking University, Beijing, P. R. China, Visiting Student, *<strong>Advisor:</strong>* Prof. Zhouchen Lin, 05/2024-09/2024
+
+* Nasdaq, NL, Canada, Research Intern, *<strong>Advisor:</strong>* John Hawkin, 05/2022 - 09/2022    
 
  
 
