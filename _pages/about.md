@@ -17,7 +17,6 @@ If you'd like to learn more about my academic and professional background, you c
 
 ## Recent News 
 
-*<font color=red> News! </font>* Serving on the organizing committee of Women and Gender-diverse Mathematicians at UBC (WGM), 2025–2026.
 
 *<font color=red> News! </font>* Appointed to the UBC Green College Academic Committee, 2025–2026.
 
