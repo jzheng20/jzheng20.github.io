@@ -17,6 +17,8 @@ If you'd like to learn more about my academic and professional background, you c
 
 ## Recent News 
 
+*<font color=red> News! </font>* Appointed to the UBC Green College Academic Committee (2025–2026).
+
 *<font color=red> News! </font>* Two papers have been accepted to  NeurIP 2025, with one co-authored paper, “Differentiable Decision Tree via 'ReLU+Argmin' Reformulation,” selected for a spotlight presentation.
 
 *<font color=red> News! </font>* Paper “Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework” has been accepted to ECCV 2024. 
