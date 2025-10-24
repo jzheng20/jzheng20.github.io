@@ -19,7 +19,7 @@ If you'd like to learn more about my academic and professional background, you c
 
 *<font color=red> News! </font>* Serving on the organizing committee of Women and Gender-diverse Mathematicians at UBC (WGM), 2025–2026.
 
-*<font color=red> News! </font>* Appointed to the UBC Green College Academic Committee (2025–2026).
+*<font color=red> News! </font>* Appointed to the UBC Green College Academic Committee, 2025–2026.
 
 *<font color=red> News! </font>* Two papers have been accepted to  NeurIP 2025, with one co-authored paper, “Differentiable Decision Tree via 'ReLU+Argmin' Reformulation,” selected for a spotlight presentation.
 
