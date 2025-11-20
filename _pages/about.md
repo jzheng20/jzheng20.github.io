@@ -20,12 +20,6 @@ If you'd like to learn more about my academic and professional background, you c
 
 *<font color=red> News! </font>* Appointed to the UBC Green College Academic Committee, 2025–2026.
 
-*<font color=red> News! </font>* Two papers have been accepted to  NeurIP 2025, with one co-authored paper, “Differentiable Decision Tree via 'ReLU+Argmin' Reformulation,” selected for a spotlight presentation.
-
-*<font color=red> News! </font>* Paper “Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework” has been accepted to ECCV 2024. 
-
-*<font color=red> News! </font>* Paper “Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery” has been accepted to The Second Tiny Papers Track at ICLR 2024.
-
 *<font color=red> News! </font>* Awarded [The Borealis AI 2023 Fellowship](https://www.borealisai.com/news/the-borealis-ai-2022-2023-fellowships-fostering-next-gen-research-talent/) (awarded to ten AI researchers from across Canada). 
 
 *<font color=red> News! </font>* Received [Chinese Government Award for Outstanding Self-financed Students Abroad (2022)](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad), 2023.  
