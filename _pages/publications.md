@@ -34,9 +34,9 @@ author_profile: true
 
   [1] Xiaoqin Zhang\*,†, Jingjing Zheng, Di Wang and Li Zhao. Exemplar-Based Denoising: A Unified Low-rank Recovery Framework. *IEEE Transactions on Circuits and Systems for Video Technology*, 2019.
 
-##  Preprinted Papers:
+<!--##  Preprinted Papers:
 
-  [1] Jingjing Zheng, Yankai Cao\*,†. Adaptive Principal Components Allocation with the $\ell_ {2, g}$-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models. *arXiv preprint arXiv:2412.08592*, 2024.
+  <!--[[1] Jingjing Zheng, Yankai Cao\*,†. Adaptive Principal Components Allocation with the $\ell_ {2, g}$-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models. *arXiv preprint arXiv:2412.08592*, 2024.
 
 
 <!--## Dissertations:--> 
