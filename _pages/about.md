@@ -19,7 +19,7 @@ Hello! My name is Jingjing Zheng. My current research interests include low-rank
 
 *<font color=red> News! </font>* Appointed to the UBC Green College Academic Committee, 2025–2026.
 
-*<font color=red> News! </font>* *<strong>AGradientX</strong>* has been seleted for Lab2market Validate Program, 2025 (Funded with $10,000).
+*<font color=red> News! </font>* *GradientX* has been seleted for Lab2market Validate Program, 2025 (Funded).
 
 *<font color=red> News! </font>* Two papers have been accepted to NeurIPS 2025 (see you in San Diego!).
 
