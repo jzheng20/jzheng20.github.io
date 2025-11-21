@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! My name is Jingjing Zheng. My current research interests include efficient training/inference of large models grounded in theory, low-rank/sparse representation
 learning with applications to efficient optimization and compute,  safety & reliability of LLMs under
-resource constraints. My academic background spans art and design (B.A.), mathematics (M.S. and Ph.D.), and computer science (Ph.D.). Since 2023, I have been pursuing my doctoral studies in Mathematics at the [University of British Columbia](https://www.ubc.ca/), under the supervision of Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
+resource constraints. My academic background spans art and design (B.A.), mathematics (M.S. and current Ph.D.), and computer science (completed Ph.D. degree). Since 2023, I have been pursuing my doctoral studies in Mathematics at the [University of British Columbia](https://www.ubc.ca/), under the supervision of Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
 
 
 
