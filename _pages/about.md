@@ -13,6 +13,10 @@ Hello! My name is Jingjing Zheng. My current research interests include efficien
 learning with applications to efficient optimization and compute,  safety & reliability of LLMs under
 resource constraints. My academic background spans art and design (B.A.), mathematics (M.S. and current Ph.D.), and computer science (completed Ph.D. degree). Since 2023, I have been pursuing my doctoral studies in Mathematics at the [University of British Columbia](https://www.ubc.ca/), under the supervision of Prof. [Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
 
+<div style="margin-top:12px; font-size:15px; color:#444;">
+  🌈 <em>I am committed to supporting LGBTQ+ visibility, inclusion, and diversity within academia and STEM communities.</em>
+</div>
+
 
 
 ## Recent News 
