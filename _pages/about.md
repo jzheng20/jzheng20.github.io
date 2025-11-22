@@ -40,7 +40,7 @@ Prof. Zhouchen Lin
 
 - **[2025]** Joined the Organizing Committee of **Women and Gender-diverse Mathematicians at UBC (WGM)**.
 - **[2025–2026]** Appointed to the **UBC Green College Academic Committee**.
-- **[2025]** Our startup *GradientX* was selected for the <a href="https://www.lab2market.ca/validate" style="font-weight:600; color:#1a4e8a; text-decoration:none;"> Lab2Market Validate Program </a> (Funded).
+- **[2025]** Our startup **GradientX** was selected for the Lab2Market Validate Program(Funded).
 - **[2025]** Two papers accepted to **NeurIPS 2025** (see you in San Diego!).   
 
 
