@@ -12,27 +12,27 @@ author_profile: true
  
 ##  Selected Publications: 
 
-  [10] Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao<sup>*</sup>,†, Zhouchen Lin\*.  AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning. *NeurIPS*, 2025.
+  [10] Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao\*,†, Zhouchen Lin\*.  AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning. *NeurIPS*, 2025.
 
-  [9] Qiangqiang Mao, Jiayang Ren, Yixiu Wang, Chenxuanyin Zou, Jingjing Zheng, Yankai Cao<sup>*</sup>,<sup>†</sup>. Differentiable Decision Tree via "ReLU+Argmin" Reformulation. *NeurIPS (spotlight)*, 2025.
+  [9] Qiangqiang Mao, Jiayang Ren, Yixiu Wang, Chenxuanyin Zou, Jingjing Zheng, Yankai Cao\*,†. Differentiable Decision Tree via "ReLU+Argmin" Reformulation. *NeurIPS (spotlight)*, 2025.
 
-  [8] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao<sup>*</sup>,<sup>†</sup>, Xiaoqin Zhang†, Xianta Jiang†. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *ECCV*, 2024. [[paper]](https://arxiv.org/abs/2311.13958)  
+  [8] Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*,†, Xiaoqin Zhang†, Xianta Jiang†. Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework. *ECCV*, 2024. [[paper]](https://arxiv.org/abs/2311.13958)  
 
-  [7] Jingjing Zheng, Yankai Cao<sup>*</sup>,<sup>†</sup>. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. *The Second Tiny Papers Track at ICLR*, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
+  [7] Jingjing Zheng, Yankai Cao\*,†. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. *The Second Tiny Papers Track at ICLR*, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC)
 
-  [6] Xiaoqin Zhang†, Ziwei Huang, Jingjing Zheng<sup>*</sup>, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. *SCIENCE CHINA Information Sciences*, 2024.
+  [6] Xiaoqin Zhang†, Ziwei Huang, Jingjing Zheng\*, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning. *SCIENCE CHINA Information Sciences*, 2024.
   
-  [5] Xiaoqin Zhang<sup>*</sup>,<sup>†</sup>, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. [[paper]](https://ieeexplore.ieee.org/document/9916142)
+  [5] Xiaoqin Zhang\*,†, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. [[paper]](https://ieeexplore.ieee.org/document/9916142)
   [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/SSO_Non_Convex.zip)
 
   [4] Jingjing Zheng∗, John Hawkin, Charles Robertson, Alexander Howse, Yuanzhu Chen, Xianta Jiang†. Unsupervised Financial Fraud Detection Using Low-rank Recovery. *Canadian Conference on Artificial Intelligence*, 2023. 
 
-  [3] Jingjing Zheng, Xiaoqin Zhang<sup>*</sup>,<sup>†</sup>, Wenzhe Wang, Xianta Jiang†. Handling Slice Permutations Variability in Tensor Recovery. *AAAI*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261)[[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)[[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
+  [3] Jingjing Zheng, Xiaoqin Zhang\*,†, Wenzhe Wang, Xianta Jiang†. Handling Slice Permutations Variability in Tensor Recovery. *AAAI*, 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261)[[supplementary material]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/aaai22_supplementary_material.pdf)[[introduction video]](https://aaai-2022.virtualchair.net/poster_aaai8021) [[poster]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf)
 
-  [2] Xiaoqin Zhang<sup>*</sup>,<sup>†</sup>, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE 
+  [2] Xiaoqin Zhang\*,†, Jingjing Zheng, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery with Weighted Tensor Average Rank. *IEEE 
   Transactions on Neural Networks and Learning Systems*, 2022. [[paper]](https://ieeexplore.ieee.org/document/9804376) [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/WTAR.zip)
 
-  [1] Xiaoqin Zhang<sup>*</sup>,<sup>†</sup>, Jingjing Zheng, Di Wang and Li Zhao. Exemplar-Based Denoising: A Unified Low-rank Recovery Framework. *IEEE Transactions on Circuits and Systems for Video Technology*, 2019.
+  [1] Xiaoqin Zhang\*,†, Jingjing Zheng, Di Wang and Li Zhao. Exemplar-Based Denoising: A Unified Low-rank Recovery Framework. *IEEE Transactions on Circuits and Systems for Video Technology*, 2019.
   
   
 
