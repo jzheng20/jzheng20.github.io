@@ -31,9 +31,9 @@ resource constraints. My academic background spans art and design (B.A.), mathem
 
 <div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
 
-  <div style="min-width:160px;max-width:160px;margin-right:20px;">
+  <div style="min-width:260px;max-width:260px;margin-right:24px;">
     <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/AdaMSS.png"
-         style="width:160px;border-radius:6px;">
+         style="width:260px;border-radius:6px;">
   </div>
 
   <div style="flex:1;">
@@ -57,6 +57,8 @@ resource constraints. My academic background spans art and design (B.A.), mathem
     </div>
 
   </div>
+
+</div>
 
 </div>
 
