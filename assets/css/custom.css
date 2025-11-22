@@ -1,1 +1,6 @@
-.author__avatar img { border-radius: 50% !important; /* 圆形头像 */ }
+/* Remove circular mask for the homepage avatar */
+img.author__avatar {
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
