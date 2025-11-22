@@ -39,28 +39,25 @@ resource constraints. My academic background spans art and design (B.A.), mathem
   <div style="flex:1;">
 
     <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
-      AdaMSS: Adaptive Multi-Subspace Strategy for Efficient Fine-Tuning
+      AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning.
     </div>
 
     <div style="font-size:14px;">
-      Ruixin Song<sup>*</sup>, Coauthor A<sup>*</sup>, Coauthor B<sup>†</sup><br>
-      (* equal contribution, † equal advising)<br>
+      Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao\*,†, Zhouchen Lin\*
+      (* corresponding authors, † supervisors)<br>
       <em>NeurIPS 2025</em><br>
-      <a href="#">arxiv</a> / <a href="#">code</a> / <a href="#">bib</a>
+      <a href="#">pdf</a> / <a href="#">code</a> 
     </div>
 
     <div style="font-size:14px;margin-top:10px;line-height:1.45;">
-      This work introduces an adaptive sparse-computation module that learns 
-      where to attend and what to extract from deep representations. It reduces 
-      FLOPs by ×34 while preserving accuracy, enabling real-time inference on 
-      large-scale benchmarks.
+      
     </div>
 
   </div>
 
 </div>
 
-</div>
+ 
 
 
 
