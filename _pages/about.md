@@ -58,37 +58,11 @@ resource constraints. My academic background spans art and design (B.A.), mathem
 </div>
 
 
-<div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
-
-  <div style="min-width:260px;max-width:260px;margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/AdaMSS.png"
-         style="width:260px;border-radius:6px;">
-  </div>
-
-  <div style="flex:1;">
-
-    <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
-      AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning
-    </div>
-
-    <div style="font-size:14px;">
-      Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao\*,†, Zhouchen Lin\*
-      (* corresponding authors, † supervisors)<br>
-      <em>NeurIPS 2025</em><br>
-      <a href="#">pdf</a> / <a href="#">code</a> 
-    </div>
-
-    <div style="font-size:14px;margin-top:10px;line-height:1.45;">
-      
-    </div>
-
-  </div>
-
-</div>
+ 
 
 
 
-<div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
 
   <div style="min-width:260px;max-width:260px;margin-right:24px;">
     <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/ECCV2024.png"
@@ -102,22 +76,22 @@ resource constraints. My academic background spans art and design (B.A.), mathem
     </div>
 
     <div style="font-size:14px;">
-      Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*,†, Xiaoqin Zhang†, Xianta Jiang†.
+      Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao<sup>*</sup>,<sup>†</sup>, Xiaoqin Zhang<sup>†</sup>, Xianta Jiang<sup>†</sup><br>
       (* corresponding authors, † supervisors)<br>
       <em>ECCV 2024</em><br>
-      <a href="#">pdf</a> / <a href="#">code</a> 
+      <a href="#">pdf</a> / <a href="#">code</a>
     </div>
 
     <div style="font-size:14px;margin-top:10px;line-height:1.45;">
-      
     </div>
 
   </div>
 
 </div>
 
+
  
-<div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
 
   <div style="min-width:260px;max-width:260px;margin-right:24px;">
     <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/TPAMI2023.png"
@@ -131,19 +105,19 @@ resource constraints. My academic background spans art and design (B.A.), mathem
     </div>
 
     <div style="font-size:14px;">
-      Xiaoqin Zhang\*,†, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. 
+      Xiaoqin Zhang<sup>*</sup>,<sup>†</sup>, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin<br>
       (* corresponding authors, † supervisors)<br>
       <em>TPAMI 2023</em><br>
-      <a href="#">pdf</a> / <a href="#">code</a> 
+      <a href="#">pdf</a> / <a href="#">code</a>
     </div>
 
     <div style="font-size:14px;margin-top:10px;line-height:1.45;">
-      
     </div>
 
   </div>
 
 </div>
+
 
 
 
