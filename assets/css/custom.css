@@ -1,4 +1,8 @@
 /* Remove circular mask for the homepage avatar */
+/* 强制作者头像为正方形并裁成圆形 */
 img.author__avatar {
-    border-radius: 50%;
+    width: 160px !important;      /* 固定宽度 */
+    height: 160px !important;     /* 固定高度 → 强制正方形 */
+    object-fit: cover !important; /* 裁剪到正方形 */
+    border-radius: 50% !important;/* 完美圆形 */
 }
