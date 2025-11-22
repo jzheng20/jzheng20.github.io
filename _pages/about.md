@@ -39,7 +39,7 @@ resource constraints. My academic background spans art and design (B.A.), mathem
   <div style="flex:1;">
 
     <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
-      AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning.
+      AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning
     </div>
 
     <div style="font-size:14px;">
@@ -69,7 +69,7 @@ resource constraints. My academic background spans art and design (B.A.), mathem
   <div style="flex:1;">
 
     <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
-      Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework.
+      Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework
     </div>
 
     <div style="font-size:14px;">
@@ -98,7 +98,7 @@ resource constraints. My academic background spans art and design (B.A.), mathem
   <div style="flex:1;">
 
     <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
-      Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework.
+      Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework
     </div>
 
     <div style="font-size:14px;">
