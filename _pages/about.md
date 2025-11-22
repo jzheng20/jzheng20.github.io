@@ -57,8 +57,64 @@ resource constraints. My academic background spans art and design (B.A.), mathem
 
 </div>
 
- 
 
+
+<div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
+
+  <div style="min-width:260px;max-width:260px;margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/ECCV2024.png"
+         style="width:260px;border-radius:6px;">
+  </div>
+
+  <div style="flex:1;">
+
+    <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
+      Handling The Non-Smooth Challenge in Tensor SVD: A Multi-Objective Tensor Recovery Framework.
+    </div>
+
+    <div style="font-size:14px;">
+      Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao\*,†, Xiaoqin Zhang†, Xianta Jiang†.
+      (* corresponding authors, † supervisors)<br>
+      <em>ECCV 2024</em><br>
+      <a href="#">pdf</a> / <a href="#">code</a> 
+    </div>
+
+    <div style="font-size:14px;margin-top:10px;line-height:1.45;">
+      
+    </div>
+
+  </div>
+
+</div>
+
+ 
+<div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
+
+  <div style="min-width:260px;max-width:260px;margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/TPAMI2023.png"
+         style="width:260px;border-radius:6px;">
+  </div>
+
+  <div style="flex:1;">
+
+    <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
+      Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework.
+    </div>
+
+    <div style="font-size:14px;">
+      Xiaoqin Zhang\*,†, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. 
+      (* corresponding authors, † supervisors)<br>
+      <em>TPAMI 2023</em><br>
+      <a href="#">pdf</a> / <a href="#">code</a> 
+    </div>
+
+    <div style="font-size:14px;margin-top:10px;line-height:1.45;">
+      
+    </div>
+
+  </div>
+
+</div>
 
 
 
