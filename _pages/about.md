@@ -28,7 +28,7 @@ Zero Lab, Peking University
 </a>, where I worked with 
 <a href="https://zhouchenlin.github.io/" style="font-weight:600; color:#1a4e8a; text-decoration:none;">
 Prof. Zhouchen Lin
-</a> on topics related to low-rank-based efficient fine-tuning of large models.
+</a> on topics related to low-rank-based efficient fine-tuning of large models. In Summer 2025, I co-founded **GradientX Technologies Inc.**, a startup focused on building the next generation of personalized financial intelligence.
 
 
 
@@ -38,10 +38,10 @@ Prof. Zhouchen Lin
 
 ## Recent News
 
-- **[2025]** Joined the Organizing Committee of Women and Gender-diverse Mathematicians at UBC (WGM).
-- **[2025–2026]** Appointed to the UBC Green College Academic Committee.
-- **[2025]** *GradientX* selected for the Lab2Market Validate Program (Funded).
-- **[2025]** Two papers accepted to NeurIPS 2025 (see you in San Diego!).
+- **[2025]** Joined the Organizing Committee of **Women and Gender-diverse Mathematicians at UBC (WGM)**.
+- **[2025–2026]** Appointed to the **UBC Green College Academic Committee**.
+- **[2025]** Our startup *GradientX* was selected for the <a href="https://www.lab2market.ca/validate" style="font-weight:600; color:#1a4e8a; text-decoration:none;"> Lab2Market Validate Program </a> (Funded).
+- **[2025]** Two papers accepted to **NeurIPS 2025** (see you in San Diego!).   
 
 
  
