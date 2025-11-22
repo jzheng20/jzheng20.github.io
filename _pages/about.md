@@ -89,6 +89,33 @@ resource constraints. My academic background spans art and design (B.A.), mathem
 
 </div>
 
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
+
+  <div style="min-width:260px;max-width:260px;margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/ICLR2024.png"
+         style="width:260px;border-radius:6px;">
+  </div>
+
+  <div style="flex:1;">
+
+    <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
+      Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery
+    </div>
+
+    <div style="font-size:14px;">
+      Jingjing Zheng, Yankai Cao<sup>*</sup>,<sup>†</sup><br>
+      (* corresponding authors, † supervisors)<br>
+      <em>ICLR 2024@Tiny Papers Track</em><br>
+      <a href="#">pdf</a> / <a href="#">code</a>
+    </div>
+
+    <div style="font-size:14px;margin-top:10px;line-height:1.45;">
+    </div>
+
+  </div>
+
+</div>
+
 
  
 <div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
