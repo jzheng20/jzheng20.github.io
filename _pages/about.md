@@ -46,7 +46,7 @@ resource constraints. My academic background spans art and design (B.A.), mathem
       Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao<sup>*</sup>,<sup>†</sup>, Zhouchen Lin<sup>*</sup><br>
       (* corresponding authors, † supervisors)<br>
       <em>NeurIPS 2025</em><br>
-      <a href="#">pdf</a> / <a href="#">code</a> 
+      <a href="https://openreview.net/attachment?id=8ZdWmpYxT0&name=pdf">pdf</a> / <a href="#">code</a> 
     </div>
 
     <div style="font-size:14px;margin-top:10px;line-height:1.45;">
@@ -79,7 +79,7 @@ resource constraints. My academic background spans art and design (B.A.), mathem
       Jingjing Zheng, Wanglong Lu, Wenzhe Wang, Yankai Cao<sup>*</sup>,<sup>†</sup>, Xiaoqin Zhang<sup>†</sup>, Xianta Jiang<sup>†</sup><br>
       (* corresponding authors, † supervisors)<br>
       <em>ECCV 2024</em><br>
-      <a href="#">pdf</a> / <a href="#">code</a>
+      <a href="https://arxiv.org/abs/2311.13958">pdf</a> / <a href="#">code</a>
     </div>
 
     <div style="font-size:14px;margin-top:10px;line-height:1.45;">
@@ -106,7 +106,7 @@ resource constraints. My academic background spans art and design (B.A.), mathem
       Jingjing Zheng, Yankai Cao<sup>*</sup>,<sup>†</sup><br>
       (* corresponding authors, † supervisors)<br>
       <em>ICLR 2024@Tiny Papers Track</em><br>
-      <a href="#">pdf</a> / <a href="#">code</a>
+      <a href="https://openreview.net/pdf?id=ciEbMa2xuC">pdf</a> / <a href="#">code</a>
     </div>
 
     <div style="font-size:14px;margin-top:10px;line-height:1.45;">
@@ -135,7 +135,7 @@ resource constraints. My academic background spans art and design (B.A.), mathem
       Xiaoqin Zhang<sup>*</sup>,<sup>†</sup>, Jingjing Zheng, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin<br>
       (* corresponding authors, † supervisors)<br>
       <em>TPAMI 2023</em><br>
-      <a href="#">pdf</a> / <a href="#">code</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804376">pdf</a> / <a href="#">code</a>
     </div>
 
     <div style="font-size:14px;margin-top:10px;line-height:1.45;">
