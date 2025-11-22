@@ -63,7 +63,33 @@ Since 2023, I have been pursuing my doctoral studies in Mathematics at the [Univ
 </div>
 
 
- 
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
+
+  <div style="min-width:260px;max-width:260px;margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/AdaMSS.png"
+         style="width:260px;border-radius:6px;">
+  </div>
+
+  <div style="flex:1;">
+
+    <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
+      Differentiable Decision Tree via "ReLU+Argmin" Reformulation
+    </div>
+
+    <div style="font-size:14px;">
+      Qiangqiang Mao, Jiayang Ren, Yixiu Wang, Chenxuanyin Zou, Jingjing Zheng, Yankai Cao<sup>*</sup>,<sup>†</sup><br>
+      (* corresponding authors, † supervisors)<br>
+      <em>NeurIPS 2025 (spotlight)</em><br>
+      <a href="https://openreview.net/pdf?id=F11iEhKoYp">pdf</a> / <a href="#">code</a> 
+    </div>
+
+    <div style="font-size:14px;margin-top:10px;line-height:1.45;">
+      <!-- optional description -->
+    </div>
+
+  </div>
+
+</div>
 
 
 
