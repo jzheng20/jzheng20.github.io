@@ -41,15 +41,7 @@ Prof. Zhouchen Lin
 - **[2025]** Two papers accepted to NeurIPS 2025 (see you in San Diego!).
 
 
-## Recent News 
-
-*<font color=red> News! </font>* Joined the Organizing Committee of Women and Gender-diverse Mathematicians at UBC (WGM), 2025.
-
-*<font color=red> News! </font>* Appointed to the UBC Green College Academic Committee, 2025–2026.
-
-*<font color=red> News! </font>* *GradientX* has been seleted for Lab2market Validate Program, 2025 (Funded).
-
-*<font color=red> News! </font>* Two papers have been accepted to NeurIPS 2025 (see you in San Diego!).
+ 
 
 
 
