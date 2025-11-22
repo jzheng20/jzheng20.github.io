@@ -66,7 +66,7 @@ Since 2023, I have been pursuing my doctoral studies in Mathematics at the [Univ
 <div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
 
   <div style="min-width:260px;max-width:260px;margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/AdaMSS.png"
+    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/ReLU+Argmin.png"
          style="width:260px;border-radius:6px;">
   </div>
 
