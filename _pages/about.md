@@ -29,6 +29,35 @@ resource constraints. My academic background spans art and design (B.A.), mathem
 
 ## Latest Projects
 
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
+
+  <div style="min-width:260px;max-width:260px;margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/AdaMSS.png"
+         style="width:260px;border-radius:6px;">
+  </div>
+
+  <div style="flex:1;">
+
+    <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
+      AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning
+    </div>
+
+    <div style="font-size:14px;">
+      Jingjing Zheng, Wanglong Lu, Yiming Dong, Chaojie Ji, Yankai Cao<sup>*</sup>,<sup>†</sup>, Zhouchen Lin<sup>*</sup><br>
+      (* corresponding authors, † supervisors)<br>
+      <em>NeurIPS 2025</em><br>
+      <a href="#">pdf</a> / <a href="#">code</a> 
+    </div>
+
+    <div style="font-size:14px;margin-top:10px;line-height:1.45;">
+      <!-- optional description -->
+    </div>
+
+  </div>
+
+</div>
+
+
 <div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
 
   <div style="min-width:260px;max-width:260px;margin-right:24px;">
