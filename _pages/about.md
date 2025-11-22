@@ -13,6 +13,26 @@ Hello! My name is Jingjing Zheng. My current research interests include efficien
 learning with applications to AI efficiency, safety & reliability of LLMs under resource constraints. My academic background spans art and design (B.A.), mathematics (M.S. and current Ph.D.), and computer science (completed Ph.D. degree).
 
 Since 2023, I have been pursuing my doctoral studies in Mathematics at the 
+<a href="https://www.ubc.ca/" style="font-weight:600; color:#1a4e8a; text-decoration:none;">
+University of British Columbia
+</a>, under the supervision of 
+<a href="https://chbe.ubc.ca/yankai-cao/" style="font-weight:600; color:#1a4e8a; text-decoration:none;">
+Prof. Yankai Cao
+</a>.
+In Summer 2024, I undertook a visiting research internship at the 
+<a href="https://zero-lab-pku.github.io/" style="font-weight:600; color:#1a4e8a; text-decoration:none;">
+Zero Lab, Peking University
+</a>, where I worked with 
+<a href="https://zhouchenlin.github.io/" style="font-weight:600; color:#1a4e8a; text-decoration:none;">
+Prof. Zhouchen Lin
+</a> on topics related to low-rank-based efficient fine-tuning of large models.
+
+
+
+Hello! My name is Jingjing Zheng. My current research interests include efficient training/inference of large models grounded in theory, low-rank/sparse representation
+learning with applications to AI efficiency, safety & reliability of LLMs under resource constraints. My academic background spans art and design (B.A.), mathematics (M.S. and current Ph.D.), and computer science (completed Ph.D. degree).
+
+Since 2023, I have been pursuing my doctoral studies in Mathematics at the 
 <a href="https://www.ubc.ca/" style="font-weight:600; color:#1a4e8a; text-decoration:underline;">
 University of British Columbia
 </a>, under the supervision of 
