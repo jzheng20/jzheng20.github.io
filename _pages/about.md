@@ -29,38 +29,20 @@ resource constraints. My academic background spans art and design (B.A.), mathem
 
 ## Latest Projects
 
-{% raw %}
-<div style="display:flex;flex-direction:row;align-items:flex-start;margin-bottom:24px;">
+feature_row:
+  - image_path: https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/AdaMSS.png
+    alt: AdaMSS
+    title: "AdaMSS: Adaptive Multi-Subspace Strategy for Efficient Fine-Tuning"
+    excerpt: >
+      Ruixin Song*, Coauthor A*, Coauthor B†  
+      (* equal contribution, † equal advising)  
+      *NeurIPS 2025*  
+      [arxiv](#) / [code](#) / [bib](#)  
+      <br><br>
+      This work introduces an adaptive sparse-computation module that learns where to attend
+      and what to extract from deep representations. It reduces FLOPs by ×34 while preserving
+      accuracy, enabling real-time inference on large-scale benchmarks.
 
-  <div style="min-width:160px;max-width:160px;margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/AdaMSS.png"
-         style="width:160px;border-radius:6px;">
-  </div>
-
-  <div style="flex:1;">
-
-    <div style="font-size:18px;font-weight:600;margin-bottom:6px;">
-      AdaMSS: Adaptive Multi-Subspace Strategy for Efficient Fine-Tuning
-    </div>
-
-    <div style="font-size:14px;">
-      Ruixin Song<sup>*</sup>, Coauthor A<sup>*</sup>, Coauthor B<sup>†</sup><br>
-      (* equal contribution, † equal advising)<br>
-      <em>NeurIPS 2025</em><br>
-      <a href="#">arxiv</a> / <a href="#">code</a> / <a href="#">bib</a>
-    </div>
-
-    <div style="font-size:14px;margin-top:10px;line-height:1.45;">
-      This work introduces an adaptive sparse-computation module that learns 
-      where to attend and what to extract from deep representations. It reduces 
-      FLOPs by ×34 while preserving accuracy, enabling real-time inference on 
-      large-scale benchmarks.
-    </div>
-
-  </div>
-
-</div>
-{% endraw %}
 
 
 
