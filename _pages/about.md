@@ -28,7 +28,7 @@ Zero Lab, Peking University
 </a>, where I worked with 
 <a href="https://zhouchenlin.github.io/" style="font-weight:600; color:#1a4e8a; text-decoration:none;">
 Prof. Zhouchen Lin
-</a> on topics related to low-rank-based efficient fine-tuning of large models. In Summer 2025, I co-founded <a href="https://www.linkedin.com/company/gradientx-tech" style="font-weight:600; color:#1a4e8a; text-decoration:none;">GradientX Technologies Inc.</a>, a startup focused on building the next generation of personalized financial intelligence.  
+</a> on topics related to low-rank-based efficient fine-tuning of large models. In Summer 2025, I co-founded <a href="https://gradientx-tech.com" style="font-weight:600; color:#1a4e8a; text-decoration:none;">GradientX Technologies Inc.</a>, a startup focused on building the next generation of personalized financial intelligence.  
 
 
 
