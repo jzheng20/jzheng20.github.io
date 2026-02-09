@@ -10,7 +10,7 @@ redirect_from:
 *<strong><font size=3> “Theory without practice is empty, but equally, practice without theory is blind."  ---- I. Kant </font></strong>*
 
 Hello! My name is Jingjing Zheng (she/her). My current research interests include efficient training/inference of large models grounded in theory, low-rank/sparse representation
-learning with applications to AI efficiency, safety & reliability of LLMs under resource constraints. My academic background spans art and design (B.A.), mathematics (M.S. and current Ph.D.), and computer science (completed Ph.D. degree).
+learning with applications to AI efficiency, safety & reliability of LLMs under resource constraints. My academic background spans art and design (B.A.), mathematics (M.S. and current Ph.D.), and computer science (completed Ph.D. degree).  I received the [Borealis AI Fellowship](https://rbcborealis.com/program/fellowships/) (awarded to ten AI researchers across Canada) and the Government Award for Outstanding Self-financed Students Abroad (awarded to 650 outstanding young talents worldwide).
 
 
 
