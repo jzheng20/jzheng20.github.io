@@ -38,9 +38,11 @@ Prof. Zhouchen Lin
 
 ## Recent News
 
+- **[2026]** This summer, I will have a short-term visit to Prof. Qibin Zhao's group at RIKEN**.
+- **[2026]** One paper accepted to **CVPR 2026** (see you in Denver!).
 - **[2025]** Joined the Organizing Committee of **Women and Gender-diverse Mathematicians at UBC (WGM)**.
 - **[2025–2026]** Appointed to the **UBC Green College Academic Committee**.
-- **[2025]** Our startup **GradientX** was selected for the Lab2Market Validate Program(Funded).
+- **[2025]** Our startup **GradientX** was selected for the Lab2Market Validate Program (Funded).
 - **[2025]** Two papers accepted to **NeurIPS 2025** (see you in San Diego!).   
 
 
