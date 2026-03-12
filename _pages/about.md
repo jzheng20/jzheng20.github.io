@@ -54,9 +54,9 @@ Prof. Zhouchen Lin
 
 <div style="display:flex;flex-direction:row;align-items:center;margin-bottom:24px;">
 
-  <div style="min-width:260px;max-width:260px;margin-right:24px;">
+  <div style="min-width:180px;max-width:180px;margin-right:24px;">
     <img src="https://raw.githubusercontent.com/jzheng20/jzheng20.github.io/master/files/ReFTA_illu.jpg"
-         style="width:260px;border-radius:6px;">
+         style="width:180px;border-radius:6px;">
   </div>
 
   <div style="flex:1;">
