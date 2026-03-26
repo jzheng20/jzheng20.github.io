@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "Experience"
-    url: /experience/
+    url: /#experience
 
   - title: "Presentations"
     url: /presentations/
