@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please check my [CV.pdf]()
+Please check my [CV.pdf]({{ base_path }}/files/20260312-UBC-JingjingZheng-CV.pdf)
 
 
 
