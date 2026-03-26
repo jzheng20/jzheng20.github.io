@@ -148,6 +148,7 @@
                         <em>CVPR</em>, 2026
                         <br>
                         <p>Breaks the weight reconstruction bottleneck in tensorized parameter-efficient fine-tuning for large models.</p>
+                        <p class="paper-abstract">Tensorized PEFT methods represent weight updates in compact tensor formats for high parameter efficiency, but incur significant overhead at inference due to weight reconstruction. ReFTA proposes a reconstruction-free tensorized adaptation framework that eliminates this bottleneck, achieving both parameter efficiency during fine-tuning and computational efficiency at inference, with strong performance on vision and language benchmarks.</p>
                     </td>
                 </tr>
 
@@ -169,6 +170,7 @@
                         <br>
                         <a href="https://arxiv.org/abs/2603.09684">paper</a>
                         <p>Investigates catastrophic forgetting in low-rank decomposition-based PEFT methods and proposes mitigation strategies for continual adaptation of large models.</p>
+                        <p class="paper-abstract">Low-rank decomposition-based PEFT methods such as LoRA are widely adopted for efficient adaptation, but exhibit catastrophic forgetting in continual learning settings. This paper systematically studies the forgetting phenomenon across representative low-rank PEFT methods, identifies its root causes in the low-rank constraint, and proposes mitigation strategies that preserve prior knowledge while enabling effective sequential adaptation of large pre-trained models.</p>
                     </td>
                 </tr>
 
@@ -192,6 +194,7 @@
                         <br>
                         <a href="https://openreview.net/attachment?id=8ZdWmpYxT0&name=pdf">paper</a>
                         <p>Analyzes multi-subspace distribution of weight matrices for adaptive budget allocation in PEFT, improving average accuracy by +4.7% on ViT-Large and +6.9% on GSM8K with LLaMA 2-7B.</p>
+                        <p class="paper-abstract">Most PEFT methods apply a fixed rank budget uniformly across all weight matrices, ignoring their differing intrinsic dimensionalities. AdaMSS analyzes the multi-subspace structure of weight matrices to adaptively allocate rank budgets per layer and module, guided by subspace importance scores. On ViT-Large it improves average accuracy by +4.7%, and achieves +6.9% on the GSM8K math reasoning benchmark with LLaMA 2-7B over fixed-rank baselines.</p>
                     </td>
                 </tr>
 
@@ -215,6 +218,7 @@
                         <br>
                         <a href="https://openreview.net/pdf?id=F11iEhKoYp">paper</a>
                         <p>Proposes a differentiable decision tree reformulation using ReLU+Argmin for end-to-end training.</p>
+                        <p class="paper-abstract">Decision trees are inherently non-differentiable due to hard branching decisions at each node, preventing end-to-end gradient-based training. This paper introduces a &ldquo;ReLU+Argmin&rdquo; reformulation that makes the entire tree fully differentiable, enabling joint optimization with neural network components via standard backpropagation. The approach achieves strong performance on tabular data benchmarks while preserving the interpretability of tree-structured models.</p>
                     </td>
                 </tr>
 
@@ -235,6 +239,7 @@
                         <br>
                         <a href="https://arxiv.org/abs/2412.08592">paper</a>
                         <p>Proposes adaptive principal component allocation guided by an &#8467;<sub>2,g</sub>-regularized Gaussian graphical model to improve efficiency in fine-tuning large language models.</p>
+                        <p class="paper-abstract">Standard PEFT methods assign equal rank to all layers, wasting capacity on already well-adapted layers and under-fitting others. This work models inter-layer dependencies of weight matrices using an &#8467;<sub>2,g</sub>-regularized Gaussian graphical model and uses the inferred structure to guide adaptive principal component allocation across layers, achieving better efficiency-accuracy trade-offs in fine-tuning large language models.</p>
                     </td>
                 </tr>
 
@@ -258,6 +263,7 @@
                         <br>
                         <a href="https://arxiv.org/abs/2311.13958">paper</a>
                         <p>A multi-objective framework for non-smooth tensor SVD challenges in tensor recovery.</p>
+                        <p class="paper-abstract">Tensor SVD-based recovery methods perform well under smooth regularization but struggle with non-smooth penalties arising from robust formulations. This paper reformulates tensor recovery as a multi-objective optimization problem that decouples smooth and non-smooth objectives, enabling efficient algorithmic solutions with provable convergence. Experiments on image inpainting, video recovery, and hyperspectral data demonstrate state-of-the-art performance.</p>
                     </td>
                 </tr>
 
@@ -278,6 +284,7 @@
                         <a href="https://openreview.net/pdf?id=ciEbMa2xuC">paper</a> /
                         <a href="https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Code_bayesian_driven_learning_ICLR24.zip">code</a>
                         <p>Bayesian-driven approach for learning weighted tensor norms to improve tensor recovery.</p>
+                        <p class="paper-abstract">Existing tensor nuclear norms assign uniform weights to all singular values, yielding loose relaxations of the true tensor rank. This paper takes a Bayesian perspective, placing priors on singular value weights and deriving a variational learning procedure that adapts the tensor norm to observed data statistics. The learned weighted tensor norm achieves superior recovery accuracy on image inpainting and video completion benchmarks over fixed-weight alternatives.</p>
                     </td>
                 </tr>
 
@@ -302,6 +309,7 @@
                         <a href="https://ieeexplore.ieee.org/document/9916142">paper</a> /
                         <a href="https://github.com/jzheng20/jzheng20.github.io/tree/master/files/SSO_Non_Convex.zip">code</a>
                         <p>A unified algorithmic framework for structured sparsity optimization with non-convex surrogates.</p>
+                        <p class="paper-abstract">Enforcing structured group sparsity&mdash;crucial for network pruning and feature selection&mdash;requires minimizing the &#8467;<sub>2,0</sub>-norm, which is NP-hard. This paper proposes a unified framework using non-convex surrogate functions, deriving a family of proximal algorithms with global convergence guarantees. The framework subsumes several prior methods as special cases and achieves better sparsity-accuracy trade-offs on diverse tasks including neural network compression and multi-task learning.</p>
                     </td>
                 </tr>
 
@@ -326,6 +334,7 @@
                         <a href="https://ieeexplore.ieee.org/document/9804376">paper</a> /
                         <a href="https://github.com/jzheng20/jzheng20.github.io/tree/master/files/WTAR.zip">code</a>
                         <p>Proposes a weighted tensor average rank for tensor recovery, providing a tighter convex relaxation of tensor rank that better captures low-rank structure across multiple unfolding modes.</p>
+                        <p class="paper-abstract">Standard tensor nuclear norms treat all singular values and unfolding modes equally, leading to suboptimal low-rank approximations. This paper introduces a weighted tensor average rank that assigns different importance to singular values across multiple unfolding modes, yielding a tighter convex relaxation of tensor rank. An efficient alternating minimization algorithm with convergence guarantees is derived, and experiments on image inpainting and video completion show consistent improvements over unweighted baselines.</p>
                     </td>
                 </tr>
 
@@ -351,6 +360,7 @@
                         <a href="https://aaai-2022.virtualchair.net/poster_aaai8021">video</a> /
                         <a href="https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Poster_SEA.pdf">poster</a>
                         <p>Addresses slice permutation variability in tensor recovery with a novel optimization approach.</p>
+                        <p class="paper-abstract">Tensor SVD (t-SVD) based recovery methods are sensitive to the ordering of frontal slices, yet this variability is rarely addressed in practice. This paper analyzes how slice permutations affect the t-SVD rank structure and recovery quality, and proposes an optimization framework that jointly estimates the latent tensor and its optimal slice ordering. Experiments on hyperspectral image recovery and video completion demonstrate consistent improvements by accounting for slice permutation variability.</p>
                     </td>
                 </tr>
 
