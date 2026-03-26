@@ -37,7 +37,7 @@ author_profile: true
 
 [6] Xiaoqin Zhang*,&#8224;, **Jingjing Zheng**, Li Zhao, Zhengyuan Zhou, Zhouchen Lin. Tensor Recovery With Weighted Tensor Average Rank. *IEEE Transactions on Neural Networks and Learning Systems*, 2022. (IF:11.1) [[paper]](https://ieeexplore.ieee.org/document/9804376) [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/WTAR.zip)
 
-[5] Xiaoqin Zhang*,&#8224;, **Jingjing Zheng**, Di Wang and Li Zhao. Exemplar-Based Denoising: A Unified Low-rank Recovery Framework. *IEEE Transactions on Circuits and Systems for Video Technology*, 2020,30(8):2538-2549. (IF:14.255) [[paper]](https://ieeexplore.ieee.org/document/8936197)
+[5] Xiaoqin Zhang*,&#8224;, **Jingjing Zheng**, Di Wang and Li Zhao. Exemplar-Based Denoising: A Unified Low-rank Recovery Framework. *IEEE Transactions on Circuits and Systems for Video Technology*, 2020,30(8):2538-2549. (IF:14.255) [[paper]](https://ieeexplore.ieee.org/document/8758211)
 
 [4] Xiaoqin Zhang&#8224;, **Jingjing Zheng**, Yufang Yan, Li Zhao*, Runhua Jiang. Joint Weighted Tensor Schatten p-Norm and Tensor lp-norm Minimization for Image Denoising. *IEEE Access*, 2019. [[paper]](https://ieeexplore.ieee.org/document/8600322)
 
