@@ -172,3 +172,34 @@ ul.compact-list li {
 .rainbow-text {
   display: inline;
 }
+
+.exp-item {
+  cursor: default;
+  padding: 5px 8px;
+  margin-bottom: 4px;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+  list-style-type: disc;
+}
+
+.exp-item:hover {
+  background-color: #ffffd0;
+}
+
+.exp-summary {
+  line-height: 1.5;
+}
+
+.exp-detail {
+  display: none;
+  font-size: 13px;
+  color: #555;
+  margin-top: 5px;
+  padding: 4px 0 2px 4px;
+  border-left: 3px solid #1772d0;
+  line-height: 1.6;
+}
+
+.exp-item:hover .exp-detail {
+  display: block;
+}
