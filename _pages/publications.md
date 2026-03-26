@@ -21,7 +21,7 @@ author_profile: true
 
 [8] **Jingjing Zheng**, Yankai Cao*,&#8224;. Bayesian-Driven Learning of A New Weighted Tensor Norm for Tensor Recovery. *Tiny Paper Track at ICLR*, 2024. [[paper]](https://openreview.net/pdf?id=ciEbMa2xuC) [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Code_bayesian_driven_learning_ICLR24.zip)
 
-[7] **Jingjing Zheng***, John Hawkin, Charles Robertson, Alexander Howse, Yuanzhu Chen, Xianta Jiang&#8224;. Unsupervised Financial Fraud Detection Using Low-rank Recovery. *Canadian Conference on Artificial Intelligence*, 2023. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20261/20261)
+[7] **Jingjing Zheng***, John Hawkin, Charles Robertson, Alexander Howse, Yuanzhu Chen, Xianta Jiang&#8224;. Unsupervised Financial Fraud Detection Using Low-rank Recovery. *Canadian Conference on Artificial Intelligence*, 2023. [[paper]](https://assets.pubpub.org/dia2ezh8/31682955297214.pdf)
 
 [6] Xianta Jiang, Ziang Wu, **Jingjing Zheng**, Bin Zheng, M. Stella Atkins. Index Pupil Activity Echoing with Task Difficulty in Fitts' Law Setting, *Eyes4ICU workshop at ETRA*, 2023.
 
@@ -31,7 +31,7 @@ author_profile: true
 
 ## Journal Publications
 
-[8] Xiaoqin Zhang&#8224;, Ziwei Huang, **Jingjing Zheng***, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning, *Science China Information Sciences*, 2024. (IF:7.6) [[paper]](https://link.springer.com/article/10.1007/s11432-023-3815-8)
+[8] Xiaoqin Zhang&#8224;, Ziwei Huang, **Jingjing Zheng***, Shuo Wang, Xianta Jiang. DcnnGrasp: Towards Accurate Grasp Pattern Recognition with Adaptive Regularizer Learning, *Science China Information Sciences*, 2024. (IF:7.6) [[paper]](https://link.springer.com/article/10.1007/s11432-022-4237-4)
 
 [7] Xiaoqin Zhang*,&#8224;, **Jingjing Zheng**, Di Wang, Guiying Tang, Zhengyuan Zhou, and Zhouchen Lin. Structured Sparsity Optimization with Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. (IF:20.8) [[paper]](https://ieeexplore.ieee.org/document/9916142) [[code]](https://github.com/jzheng20/jzheng20.github.io/tree/master/files/SSO_Non_Convex.zip)
 
@@ -39,7 +39,7 @@ author_profile: true
 
 [5] Xiaoqin Zhang*,&#8224;, **Jingjing Zheng**, Di Wang and Li Zhao. Exemplar-Based Denoising: A Unified Low-rank Recovery Framework. *IEEE Transactions on Circuits and Systems for Video Technology*, 2020,30(8):2538-2549. (IF:14.255) [[paper]](https://ieeexplore.ieee.org/document/8936197)
 
-[4] Xiaoqin Zhang&#8224;, **Jingjing Zheng**, Yufang Yan, Li Zhao*, Runhua Jiang. Joint Weighted Tensor Schatten p-Norm and Tensor lp-norm Minimization for Image Denoising. *IEEE Access*, 2019. [[paper]](https://ieeexplore.ieee.org/document/8936197)
+[4] Xiaoqin Zhang&#8224;, **Jingjing Zheng**, Yufang Yan, Li Zhao*, Runhua Jiang. Joint Weighted Tensor Schatten p-Norm and Tensor lp-norm Minimization for Image Denoising. *IEEE Access*, 2019. [[paper]](https://ieeexplore.ieee.org/document/8600322)
 
 ## Preprints
 
