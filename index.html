@@ -262,8 +262,8 @@
                         <em>ECCV</em>, 2024
                         <br>
                         <a href="https://arxiv.org/abs/2311.13958">paper</a>
-                        <p>A multi-objective framework for non-smooth tensor SVD challenges in tensor recovery.</p>
-                        <p class="paper-abstract">Tensor SVD-based recovery methods perform well under smooth regularization but struggle with non-smooth penalties arising from robust formulations. This paper reformulates tensor recovery as a multi-objective optimization problem that decouples smooth and non-smooth objectives, enabling efficient algorithmic solutions with provable convergence. Experiments on image inpainting, video recovery, and hyperspectral data demonstrate state-of-the-art performance.</p>
+                        <p>Addresses non-smooth tensor data recovery via a learnable tensor nuclear norm and the proposed APMM optimization algorithm with KKT convergence guarantees.</p>
+                        <p class="paper-abstract">Tensor SVD (t-SVD)-based recovery methods show strong results on visual data such as color images and videos, but suffer severe performance degradation when tensor data exhibits non-smooth changes&mdash;a common real-world phenomenon largely ignored by prior work. This paper introduces a novel tensor recovery model with a learnable tensor nuclear norm to address this challenge, and develops the Alternating Proximal Multiplier Method (APMM) to iteratively solve the proposed model. Theoretical analysis proves convergence of APMM to the KKT point of the optimization problem. A multi-objective tensor recovery framework is further proposed based on APMM to efficiently exploit correlations across tensor dimensions, extending t-SVD-based methods to higher-order tensor cases. Numerical experiments on tensor completion demonstrate the effectiveness of the approach.</p>
                     </td>
                 </tr>
 
