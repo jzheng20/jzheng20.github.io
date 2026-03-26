@@ -283,8 +283,8 @@
                         <br>
                         <a href="https://openreview.net/pdf?id=ciEbMa2xuC">paper</a> /
                         <a href="https://github.com/jzheng20/jzheng20.github.io/tree/master/files/Code_bayesian_driven_learning_ICLR24.zip">code</a>
-                        <p>Bayesian-driven approach for learning weighted tensor norms to improve tensor recovery.</p>
-                        <p class="paper-abstract">Existing tensor nuclear norms assign uniform weights to all singular values, yielding loose relaxations of the true tensor rank. This paper takes a Bayesian perspective, placing priors on singular value weights and deriving a variational learning procedure that adapts the tensor norm to observed data statistics. The learned weighted tensor norm achieves superior recovery accuracy on image inpainting and video completion benchmarks over fixed-weight alternatives.</p>
+                        <p>Learns a data-dependent weighted tensor norm via Bayesian Optimization within a bilevel tensor completion framework, addressing non-smooth changes and imbalanced low-rankness.</p>
+                        <p class="paper-abstract">t-SVD-based tensor recovery methods suffer from performance limitations caused by non-smooth changes and imbalanced low-rankness in tensor data. This work introduces a novel bilevel tensor completion model that integrates the learning of a data-dependent weighted tensor norm as an upper-level problem within the tensor completion framework. The bilevel optimization is treated as a black-box problem, and Bayesian Optimization (BO) is employed for efficient learning of the proposed tensor norm. Numerical experiments demonstrate superior performance compared to state-of-the-art tensor completion methods.</p>
                     </td>
                 </tr>
 
