@@ -203,3 +203,25 @@ ul.compact-list li {
 .exp-item:hover .exp-detail {
   display: block;
 }
+
+.research-table tr {
+  transition: background-color 0.2s;
+}
+
+.research-table tr:hover {
+  background-color: #ffffd0;
+}
+
+.research-table td p {
+  display: none;
+  font-size: 13px;
+  color: #555;
+  margin-top: 6px;
+  padding: 4px 0 2px 4px;
+  border-left: 3px solid #1772d0;
+  line-height: 1.6;
+}
+
+.research-table tr:hover td p {
+  display: block;
+}
