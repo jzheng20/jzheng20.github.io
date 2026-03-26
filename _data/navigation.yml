@@ -16,7 +16,7 @@ main:
     url: /#service
 
   - title: "Awards & Honors"
-    url: /awards/
+    url: /#awards
 
   - title: "CV"
     url: "https://jzheng20.github.io/files/20260312-UBC-JingjingZheng-CV.pdf"
