@@ -7,13 +7,13 @@ main:
     url: /#experience
 
   - title: "Presentations"
-    url: /presentations/
+    url: /#presentations
 
   - title: "Teaching"
-    url: /teaching/
+    url: /#teaching
 
   - title: "Service & Mentoring"
-    url: /service/
+    url: /#service
 
   - title: "Awards & Honors"
     url: /awards/
