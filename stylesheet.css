@@ -212,7 +212,8 @@ ul.compact-list li {
   background-color: #ffffd0;
 }
 
-.research-table td p {
+.research-table td p:not(.paper-abstract) {
+  display: block;
   font-size: 13px;
   color: #777;
   margin-top: 4px;
