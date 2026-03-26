@@ -193,8 +193,8 @@
                         <em>NeurIPS</em>, 2025
                         <br>
                         <a href="https://openreview.net/attachment?id=8ZdWmpYxT0&name=pdf">paper</a>
-                        <p>Analyzes multi-subspace distribution of weight matrices for adaptive budget allocation in PEFT, improving average accuracy by +4.7% on ViT-Large and +6.9% on GSM8K with LLaMA 2-7B.</p>
-                        <p class="paper-abstract">Most PEFT methods apply a fixed rank budget uniformly across all weight matrices, ignoring their differing intrinsic dimensionalities. AdaMSS analyzes the multi-subspace structure of weight matrices to adaptively allocate rank budgets per layer and module, guided by subspace importance scores. On ViT-Large it improves average accuracy by +4.7%, and achieves +6.9% on the GSM8K math reasoning benchmark with LLaMA 2-7B over fixed-rank baselines.</p>
+                        <p>Leverages subspace segmentation to adaptively reduce trainable parameters, achieving better generalization than LoRA/PiSSA while using far fewer parameters.</p>
+                        <p class="paper-abstract">AdaMSS proposes an adaptive multi-subspace approach for parameter-efficient fine-tuning of large models. Unlike traditional PEFT methods that operate in a single large subspace, AdaMSS applies subspace segmentation to obtain multiple smaller subspaces and adaptively reduces trainable parameters during training, ultimately updating only those associated with the subspaces most relevant to the target task. Theoretical analyses show better generalization guarantees than LoRA and PiSSA. On ViT-Large, AdaMSS achieves 4.7% higher average accuracy than LoRA across seven tasks using only 15.4% of LoRA&rsquo;s trainable parameters. On RoBERTa-Large, it outperforms PiSSA by 7% in average accuracy across six tasks while reducing trainable parameters by ~94.4%.</p>
                     </td>
                 </tr>
 
