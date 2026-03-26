@@ -19,6 +19,8 @@ author_profile: true
 
 ## Grants
 
+- **Mitacs Business Strategy Internship (BSI)**, 2025, fund: CAD $10,000.
+
 - **Science and Technology Innovation Program for College Students in Zhejiang Province**, Image Classification Based on New Norm and Its Generalization, Jingjing Zheng (Principal Investigator), Xiaoju Lu, Guiying Tang, 2018-2020, fund: RMB ¥10,000.
 
 - **Mitacs Accelerate Award with Verafin**, Unsupervised Financial Fraud Detection Using Low-rank Recovery, CAD $15000, 2022.5-2022.9
