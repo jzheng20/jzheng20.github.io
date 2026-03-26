@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: " "
+permalink: /about/
+title: "About"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 *<strong><font size=3> “Theory without practice is empty, but equally, practice without theory is blind."  ---- I. Kant </font></strong>*
 
